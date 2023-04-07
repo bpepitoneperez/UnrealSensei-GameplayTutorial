@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/bryan/dev/UnrealSensei-GameplayTutorial/FirstPersonTutorial/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/GW/1HMMHO8S36RIREH6KJ0TA8.uasset",
+				"/Users/bryan/dev/UnrealSensei-GameplayTutorial/FirstPersonTutorial/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/7T/WY2R03EX025XIAF01D3A0Q.uasset",
+				"/Users/bryan/dev/UnrealSensei-GameplayTutorial/FirstPersonTutorial/Content/FirstPerson/Blueprints/GM_TargetGame.uasset",
+				"/Users/bryan/dev/UnrealSensei-GameplayTutorial/FirstPersonTutorial/Content/FirstPerson/Blueprints/BP_Target.uasset",
 				"X:/Github/UnrealSense-GameplayTutorial/FirstPersonTutorial/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
 				"X:/Github/UnrealSense-GameplayTutorial/FirstPersonTutorial/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"X:/Github/UnrealSense-GameplayTutorial/FirstPersonTutorial/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/DC/B6RQEP49PKFT97CE7SO3PB.uasset",
